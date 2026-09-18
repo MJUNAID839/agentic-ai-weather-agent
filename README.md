@@ -81,4 +81,4 @@ streamlit run Dashboard.py
 
 ---
 
-*Part of my Agentic AI learning journey — follow along on [LinkedIn](#).*
+*Part of my Agentic AI learning journey — follow along on [LinkedIn](https://lnkd.in/p/d6zE2nzG).*
